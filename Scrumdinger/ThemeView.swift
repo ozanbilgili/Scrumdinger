@@ -27,3 +27,4 @@ struct ThemeView_Previews: PreviewProvider {
         ThemeView(theme: .buttercup)
     }
 }
+
